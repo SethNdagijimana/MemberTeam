@@ -1,6 +1,6 @@
 # Project Name
 
-Company Member Pag
+Company Member Page
 
 ## Deployment
 
